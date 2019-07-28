@@ -1,7 +1,7 @@
 {
-  "name": "react-native-spinkit",
-  "version": "1.4.0",
-  "description": "A collection of animated loading indicators for React Native",
+  "name": "react-native-spinkit-fang",
+  "version": "1.4.1",
+  "description": "(Forked from https://github.com/maxs15/react-native-spinkit) A collection of animated loading indicators for React Native.",
   "main": "index.js",
   "keywords": [
     "react-component",
@@ -15,12 +15,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/maxs15/react-native-spinkit.git"
+    "url": "git://github.com/oofangoo/react-native-spinkit.git"
   },
   "author": {
-    "name": "Maxime Mezrahi",
-    "email": "maxime.mezrahi@gmail.com",
-    "url": "https://github.com/maxs15"
+    "name": "Fang",
+    "email": "oofangoo@gmail.com",
+    "url": "https://github.com/oofangoo"
   },
   "dependencies": {
     "prop-types": "^15.5.8"
